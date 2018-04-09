@@ -13,3 +13,5 @@ ___homework__
 
 №3
 
+"Candy" (US) & "Sweets": ![](https://github.com/piramidanechastiy/hw6/blob/master/4.png)
+
