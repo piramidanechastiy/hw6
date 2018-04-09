@@ -7,4 +7,9 @@ ___homework__
 
 №2
 
-глагол "мыть" в пр. времени, ед. числе и существительное "мыло" в р.п.: "мыла" ![](https://github.com/piramidanechastiy/hw6/blob/master/5.png)
+глагол "мыть" в прошедшем времени, ед. числе, ж.роде и существительное "мыло" в р.п.: "мыла" ![](https://github.com/piramidanechastiy/hw6/blob/master/5.png)
+
+глагол "садиться" в прошедшем времени, ед. числе и ср. роде и существительное "село": ![](https://github.com/piramidanechastiy/hw6/blob/master/7.png)
+
+№3
+
