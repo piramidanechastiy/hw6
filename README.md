@@ -1,4 +1,3 @@
-hw6
 _homework_
 
 __Первая часть:__
@@ -30,3 +29,14 @@ __Вторая часть:__
 №1
 
 Три самых частотных модификатора (modifiers) существительного question: difficult, important, fundamental ![](https://github.com/piramidanechastiy/hw6/blob/master/3.png)
+
+№2
+
+Синонимы: "let" & "allow" ![](https://github.com/piramidanechastiy/hw6/blob/master/2.png)
+***Выводы:***
+
+- Слова "freedom", "access" и "individual" приоритетно используются с гл. "allow".
+
+- Слова "go", "pass" и "fall" употребляются вместе с гл. "let".
+
+- Слова "anyone", "people" и "let" одинаково часто встречаются в связке с обоими глаголами.
